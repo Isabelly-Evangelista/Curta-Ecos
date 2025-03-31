@@ -150,12 +150,14 @@ body {
     justify-content: flex-start;
     gap: 14px;
 }
+
 /*main*/
 #main-content {
     display: flex;
     justify-content: center;
     align-items: flex-start;
     width: 100%;
+    color: #614252;
 }
 /* Rodapé */
 
