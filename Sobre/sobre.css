@@ -151,7 +151,7 @@ body {
     gap: 14px;
 }
 /*main*/
-#main-content {
+.paragrafo{
     text-align: start;
     margin: 0 350px 0;
     font-size: 20px;
@@ -273,35 +273,8 @@ footer {
         width: 100%;
     }
 
-    .paragrafos {
-        flex: 0;
-        margin: 0;
-    }
-
-    .titulo2 {
-        margin: 5px 0 5px 0;
-        text-align: start;
-        width: 100%;
-        flex-wrap: wrap;
-        font-size: 20px;
-    }
-
-    .imagens {
-        height: auto;
-        width: 100%;
-        margin: 0;
-    }
-
-    #logoNomeContainer {
-        left: 10px;
-        gap: 5px;
-    }
-
-    #logoFixed {
-        height: 40px;
-    }
-
-    #nomeSiteFixed {
-        font-size: 24px;
+    .paragrafo {
+        flex: 3px;
+        margin: 2.50px;
     }
 }
