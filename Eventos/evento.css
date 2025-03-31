@@ -150,20 +150,23 @@ body {
     justify-content: flex-start;
     gap: 14px;
 }
+
 /*main*/
 #main-content {
     display: flex;
     justify-content: center;
     align-items: flex-start;
     width: 100%;
+    color: #614252;
 }
+
 /* Rodapé */
 
 footer {
     font-size: small;
     background-color: #282729;
     padding: 0 0 25px 0;
-    color: #405C60;
+    color:#614252;
 }
 
 #rodape {
